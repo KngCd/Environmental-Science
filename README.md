@@ -16,6 +16,14 @@ This Project is a requirement for our Environmental Science course. This is a we
 
 ![Gallery](Environmental%20Science%20-%20Images/img5.png)
 
+![Team 1](Environmental%20Science%20-%20Images/img7.png)
+
+![Team 2](Environmental%20Science%20-%20Images/img8.png)
+
+![Team 3](Environmental%20Science%20-%20Images/img9.png)
+
+![Team 4](Environmental%20Science%20-%20Images/img10.png)
+
 ![Footer](Environmental%20Science%20-%20Images/img6.png)
 
 
